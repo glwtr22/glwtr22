@@ -1,6 +1,8 @@
 ### Hi there 👋
-## 🌱 I’m interested in ...
-# Computer Vision
+
+### 🌱 I’m interested in ...
+#### º Computer Vision
+
 <!--
 **glwtr22/glwtr22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
