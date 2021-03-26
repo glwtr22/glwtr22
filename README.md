@@ -2,6 +2,7 @@
 
 ### 🌱 I’m interested in ...
 + Computer Vision
++ living a passionate life
 
 <!--
 **glwtr22/glwtr22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
